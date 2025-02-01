@@ -1,4 +1,4 @@
-<h1>Real Time Chat App</h1>
+<h1>Real Time Chat App- Assignment</h1>
 
 This is a real-time chat application that allows you to chat with others in real time.
 
